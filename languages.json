@@ -1,0 +1,18 @@
+{
+    "ru": {
+        "debug": {
+            "example_debug_string": "Привет, я строчка в блоке ОТЛАДКА!"
+        },
+        "general": {
+            "example_general_string": "Привет, я строчка в ОСНОВНОМ блоке!"
+        }
+    },
+    "en": {
+        "debug": {
+            "example_debug_string": "Hi, I'm a line in the DEBUGGING block!"
+        },
+        "general": {
+            "example_general_string": "Hi, I'm a line in the GENERAL block!"
+        }
+    }
+}
